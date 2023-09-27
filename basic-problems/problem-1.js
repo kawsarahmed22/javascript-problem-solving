@@ -20,4 +20,4 @@ function isInteger(x){
     }
 }
 
-console.log(isInteger(2.35))
+console.log(isInteger(26.35))
